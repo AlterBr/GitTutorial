@@ -1,4 +1,4 @@
-package main;
+package main.company;
 
 public class Developer {
     private String firstName;

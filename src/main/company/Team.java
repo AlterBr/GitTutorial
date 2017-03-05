@@ -1,4 +1,4 @@
-package main;
+package main.company;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package main;
+package main.company;
 
 public class Project {
     public static void main(String[] args) {

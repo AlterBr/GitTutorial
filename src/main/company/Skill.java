@@ -1,12 +1,12 @@
-package main;
+package main.company;
 
-public class Technology {
+public class Skill {
     private String technologyName;
 
-    public Technology() {
+    public Skill() {
     }
 
-    public Technology(String technologyName) {
+    public Skill(String technologyName) {
         this.technologyName = technologyName;
     }
 
