@@ -1,0 +1,8 @@
+# Folders
+.idea/*
+out/*
+
+# Files
+*.class
+/GitTutorial.iml
+.idea/workspace.xml
